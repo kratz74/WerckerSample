@@ -1,5 +1,5 @@
 # docker box definition
-box: java
+box: maven
 
 # defining the dev pipeline
 dev:
